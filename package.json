@@ -1,0 +1,10 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "Web Project Workflows with Gulp.js, Git, and Browserify",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Trond Skår"
+}
